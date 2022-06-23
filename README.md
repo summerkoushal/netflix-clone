@@ -1,22 +1,24 @@
 # netflix-clone
-<<<<<<< HEAD
+x
+fsdgsfdssss
+dd
+d
+d
+d
+d
+d
+d
+fdsfsff
+dffsd
+fs
+fsfs
+fsfasdcsdc
+d
+cs
 
-This file contains the html, css and javascript code for netflix loginpage.
-bro whats happeing code is not visible
-=======
-contains the html css and js code for netflix homepage.
-dfjsdjfslf
-f
 sd
-fs
-fsdg
-fds
-df
-fs
-
-f
+s
+ffdsfsd
 sf
-ds
-dfs
-fs
->>>>>>> hello
+dsfsd
+dfsfsd
