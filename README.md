@@ -1,2 +1,3 @@
 # netflix-clone
-contains the html css and js code for netflix homepage.
+
+This file contains the html, css and javascript code for netflix loginpage.
