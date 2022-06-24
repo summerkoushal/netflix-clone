@@ -1,2 +1,24 @@
 # netflix-clone
-contains the html css and js code for netflix homepage.
+x
+fsdgsfdssss
+dd
+d
+d
+d
+d
+d
+d
+fdsfsff
+dffsd
+fs
+fsfs
+fsfasdcsdc
+d
+cs
+
+sd
+s
+ffdsfsd
+sf
+dsfsd
+dfsfsd
